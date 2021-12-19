@@ -1,5 +1,6 @@
 input
 example
+log
 node_modules
 .idea
 *.iml
