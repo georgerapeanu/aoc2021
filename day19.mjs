@@ -159,8 +159,7 @@ function compose_rotations(x, y){
 }
 
 async function main(){
-    compose_rotations(7, 5);
-    let input_lines = [];
+      let input_lines = [];
     rl.on('line', (line) => {
         if(line.trim().length !== 0){
             input_lines.push(line.trim());
