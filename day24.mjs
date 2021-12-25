@@ -1,4 +1,3 @@
-///i did part 1 manually I'm so sorry
 import {stdin} from 'process';
 import * as readline from 'node:readline/promises';
 import * as assert from "assert";
@@ -222,7 +221,7 @@ async function main(){
 
         //alu.init([1]);
         //console.log(alu.run());
-        
+
         let states = {0:0};
 
         let curr_lines = [];
